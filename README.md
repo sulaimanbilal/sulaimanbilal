@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaimanbilal" alt="sulaimanbilal" /></a> </p>
 
-- 🔭 I’m currently studying at [Sebelas Maret University](https://uns.ac.id/) majoring in Physics
+- 🔭 I’m currently studying at [Sebelas Maret University](https://uns.ac.id/) majoring in Industrial Engineering
 
 - 📫 How to reach me **sulbilmuzakhar@gmail.com**
 
